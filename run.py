@@ -35,7 +35,7 @@ def get_config(company):
         path to three configuration jsons: [config_path, config_phase_path, config_role_path]
     """
     config_dir = os.path.join(root, "CompanyConfig", company)
-    default_config_dir = os.path.join(root, "CompanyConfig", "Default")
+    default_config_dir = os.path.join(root, "CompanyConfig", "Human")
 
     config_files = [
         "ChatChainConfig.json",

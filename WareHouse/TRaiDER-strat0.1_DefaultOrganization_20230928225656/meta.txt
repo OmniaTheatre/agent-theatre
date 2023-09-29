@@ -1,0 +1,29 @@
+Task:
+We are a hedgefund. We need to design, code, and backtest a new automated trading algorithm which finds potential trades to make based on a set of heuristic criteria. Choose rules based on high-performing momentum trading strategies and use a number of momentum-based indicators selected to give us maximum edge and minimum risk. Please select a simple and free source of market data, and similarly free and easy-to-use libraries for indicators, backtesting, and anything else we may need.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.brainstorming: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+5.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
