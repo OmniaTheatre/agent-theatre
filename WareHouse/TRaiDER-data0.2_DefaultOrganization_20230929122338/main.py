@@ -5,6 +5,11 @@ import tkinter as tk
 from tkinter import filedialog
 from scraper import StockDataScraper
 from spreadsheet import StockDataSpreadsheet
+
+import sys
+print(sys.path)
+
+
 def select_file():
     root = tk.Tk()
     root.withdraw()
